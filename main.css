@@ -1,0 +1,32 @@
+p {
+    color: rgb(4, 65, 116);
+}
+
+logo {
+    align-items: left;
+}
+
+.main-header {
+    display: inline-block;  
+    align-items: center;
+}
+
+.lead {
+    font-weight: bold;
+    font-size: 1.1rem;
+    font-style: italics;
+}
+
+h2 {
+
+}
+h3 {
+    margin: 5px 20px 10px 5px;
+    padding: 20px;
+    border: 1px sold pink;
+}
+
+li {
+    color: rgb(185, 5, 5); 
+    background: whitesmoke; 
+}
